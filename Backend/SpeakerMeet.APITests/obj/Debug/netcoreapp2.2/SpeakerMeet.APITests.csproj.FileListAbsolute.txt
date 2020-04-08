@@ -1,0 +1,17 @@
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.csprojAssemblyReference.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.csproj.CoreCompileInputs.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.AssemblyInfoInputs.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.AssemblyInfo.cs
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.APITests.deps.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.APITests.runtimeconfig.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.APITests.runtimeconfig.dev.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.APITests.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.API.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.API.pdb
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.csproj.CopyComplete
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\bin\Debug\netcoreapp2.2\SpeakerMeet.APITests.pdb
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.APITests\obj\Debug\netcoreapp2.2\SpeakerMeet.APITests.pdb

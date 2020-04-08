@@ -1,0 +1,14 @@
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\bin\Debug\netcoreapp2.2\SpeakerMeet.API.deps.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\bin\Debug\netcoreapp2.2\SpeakerMeet.API.runtimeconfig.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\bin\Debug\netcoreapp2.2\SpeakerMeet.API.runtimeconfig.dev.json
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\bin\Debug\netcoreapp2.2\SpeakerMeet.API.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\bin\Debug\netcoreapp2.2\SpeakerMeet.API.pdb
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.csprojAssemblyReference.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.csproj.CoreCompileInputs.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.RazorAssemblyInfo.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.RazorAssemblyInfo.cs
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.AssemblyInfoInputs.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.AssemblyInfo.cs
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.RazorTargetAssemblyInfo.cache
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.dll
+C:\Users\xard4\source\repos\SpeakerMeet.API\SpeakerMeet.API\obj\Debug\netcoreapp2.2\SpeakerMeet.API.pdb
